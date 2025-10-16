@@ -1,0 +1,35 @@
+{
+    "articles": [
+      {
+        "title": "NHL Scores",
+        "description": "Scores and standings from the NHL.",
+        "scores": [
+          "Tor 5 - Det 3",
+          "Mtl 3 - Ott 1",
+          "Fla 2 - TB 4"
+        ],
+        "standings": [
+          "1. Tor",
+          "2. Mtl",
+          "3. TB",
+          "4. Ott",
+          "5. Fla"
+        ]
+      },
+      {
+        "title": "NFL Scores",
+        "description": "Scores and standings from the NFL.",
+        "scores": [
+          "Mia 6 - Buf -17",
+          "NE 14 - NyJ - 24"          
+        ],
+        "standings": [            
+          "1. Buf",
+          "2. NE",
+          "3. Mia",
+          "4. NyJ."
+        ]            
+      }
+    ]
+  }
+  
